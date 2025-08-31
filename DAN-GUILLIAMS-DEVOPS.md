@@ -1,5 +1,6 @@
 # Dan Guilliams  
-📍 Clayton, NC | 📧 [dan.guilliams.jr@outlook.com](mailto:dan.guilliams.jr@outlook.com) | 📞 919.455.6123 | 🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | 🔗 [GitHub](https://github.com/yourusername)
+📍 Clayton, NC | 📧 [dan.guilliams.jr@outlook.com](mailto:dan.guilliams.jr@outlook.com) | 📞 919.455.6123 | 🔗 [LinkedIn](https://linkedin.com/in/dan-guilliams-jr) | 🔗 [GitHub](https://github.com/dan-guilliams)
+
 
 
 ---
